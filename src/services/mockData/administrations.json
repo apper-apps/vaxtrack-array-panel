@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "lotId": 1,
+    "dateAdministered": "2024-01-20",
+    "ageGroup": "18+y",
+    "dosesAdministered": 25
+  },
+  {
+    "Id": 2,
+    "lotId": 1,
+    "dateAdministered": "2024-01-25",
+    "ageGroup": "12-18y",
+    "dosesAdministered": 15
+  },
+  {
+    "Id": 3,
+    "lotId": 2,
+    "dateAdministered": "2024-02-05",
+    "ageGroup": "18+y",
+    "dosesAdministered": 50
+  },
+  {
+    "Id": 4,
+    "lotId": 3,
+    "dateAdministered": "2024-03-10",
+    "ageGroup": "18+y",
+    "dosesAdministered": 30
+  },
+  {
+    "Id": 5,
+    "lotId": 4,
+    "dateAdministered": "2024-08-20",
+    "ageGroup": "5-12y",
+    "dosesAdministered": 100
+  },
+  {
+    "Id": 6,
+    "lotId": 5,
+    "dateAdministered": "2024-02-15",
+    "ageGroup": "1-2y",
+    "dosesAdministered": 20
+  },
+  {
+    "Id": 7,
+    "lotId": 6,
+    "dateAdministered": "2024-03-01",
+    "ageGroup": "18+y",
+    "dosesAdministered": 15
+  },
+  {
+    "Id": 8,
+    "lotId": 7,
+    "dateAdministered": "2024-04-10",
+    "ageGroup": "12-18y",
+    "dosesAdministered": 35
+  },
+  {
+    "Id": 9,
+    "lotId": 8,
+    "dateAdministered": "2024-05-15",
+    "ageGroup": "2-5y",
+    "dosesAdministered": 20
+  },
+  {
+    "Id": 10,
+    "lotId": 9,
+    "dateAdministered": "2024-06-01",
+    "ageGroup": "18+y",
+    "dosesAdministered": 150
+  }
+]

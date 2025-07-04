@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "dateReceived": "2024-01-15",
+    "quantitySent": 300,
+    "quantityReceived": 300,
+    "dosesPassed": 300,
+    "dosesFailed": 0,
+    "discrepancyReason": ""
+  },
+  {
+    "Id": 2,
+    "dateReceived": "2024-02-01",
+    "quantitySent": 500,
+    "quantityReceived": 495,
+    "dosesPassed": 490,
+    "dosesFailed": 5,
+    "discrepancyReason": "5 vials damaged during transit - broken glass"
+  },
+  {
+    "Id": 3,
+    "dateReceived": "2024-03-01",
+    "quantitySent": 200,
+    "quantityReceived": 200,
+    "dosesPassed": 200,
+    "dosesFailed": 0,
+    "discrepancyReason": ""
+  },
+  {
+    "Id": 4,
+    "dateReceived": "2024-08-15",
+    "quantitySent": 800,
+    "quantityReceived": 800,
+    "dosesPassed": 800,
+    "dosesFailed": 0,
+    "discrepancyReason": ""
+  },
+  {
+    "Id": 5,
+    "dateReceived": "2024-01-20",
+    "quantitySent": 150,
+    "quantityReceived": 148,
+    "dosesPassed": 148,
+    "dosesFailed": 0,
+    "discrepancyReason": "Short shipment - 2 vials missing from original order"
+  }
+]

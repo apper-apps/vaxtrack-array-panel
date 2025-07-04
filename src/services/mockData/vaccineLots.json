@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "vaccineId": 1,
+    "lotNumber": "PF2024A001",
+    "expirationDate": "2024-12-15",
+    "quantityReceived": 300,
+    "quantityOnHand": 245,
+    "dateReceived": "2024-01-15"
+  },
+  {
+    "Id": 2,
+    "vaccineId": 2,
+    "lotNumber": "MD2024B002",
+    "expirationDate": "2024-11-20",
+    "quantityReceived": 500,
+    "quantityOnHand": 380,
+    "dateReceived": "2024-02-01"
+  },
+  {
+    "Id": 3,
+    "vaccineId": 3,
+    "lotNumber": "JJ2024C003",
+    "expirationDate": "2025-03-10",
+    "quantityReceived": 200,
+    "quantityOnHand": 150,
+    "dateReceived": "2024-03-01"
+  },
+  {
+    "Id": 4,
+    "vaccineId": 4,
+    "lotNumber": "FL2024D004",
+    "expirationDate": "2024-10-30",
+    "quantityReceived": 800,
+    "quantityOnHand": 600,
+    "dateReceived": "2024-08-15"
+  },
+  {
+    "Id": 5,
+    "vaccineId": 5,
+    "lotNumber": "MMR2024E005",
+    "expirationDate": "2025-06-15",
+    "quantityReceived": 150,
+    "quantityOnHand": 120,
+    "dateReceived": "2024-01-20"
+  },
+  {
+    "Id": 6,
+    "vaccineId": 6,
+    "lotNumber": "HBV2024F006",
+    "expirationDate": "2025-01-25",
+    "quantityReceived": 100,
+    "quantityOnHand": 75,
+    "dateReceived": "2024-02-10"
+  },
+  {
+    "Id": 7,
+    "vaccineId": 7,
+    "lotNumber": "TD2024G007",
+    "expirationDate": "2025-08-12",
+    "quantityReceived": 250,
+    "quantityOnHand": 200,
+    "dateReceived": "2024-03-15"
+  },
+  {
+    "Id": 8,
+    "vaccineId": 8,
+    "lotNumber": "PCV2024H008",
+    "expirationDate": "2025-05-20",
+    "quantityReceived": 180,
+    "quantityOnHand": 155,
+    "dateReceived": "2024-04-01"
+  },
+  {
+    "Id": 9,
+    "vaccineId": 1,
+    "lotNumber": "PF2024I009",
+    "expirationDate": "2024-09-15",
+    "quantityReceived": 400,
+    "quantityOnHand": 25,
+    "dateReceived": "2024-05-01"
+  },
+  {
+    "Id": 10,
+    "vaccineId": 2,
+    "lotNumber": "MD2024J010",
+    "expirationDate": "2024-08-30",
+    "quantityReceived": 300,
+    "quantityOnHand": 0,
+    "dateReceived": "2024-06-01"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "date": "2024-01-31",
+    "lotId": 1,
+    "expectedQuantity": 275,
+    "actualQuantity": 275,
+    "adjustmentReason": "",
+    "adjustmentAmount": 0
+  },
+  {
+    "Id": 2,
+    "date": "2024-02-29",
+    "lotId": 2,
+    "expectedQuantity": 430,
+    "actualQuantity": 425,
+    "adjustmentReason": "damaged",
+    "adjustmentAmount": -5
+  },
+  {
+    "Id": 3,
+    "date": "2024-03-31",
+    "lotId": 3,
+    "expectedQuantity": 170,
+    "actualQuantity": 170,
+    "adjustmentReason": "",
+    "adjustmentAmount": 0
+  },
+  {
+    "Id": 4,
+    "date": "2024-08-31",
+    "lotId": 4,
+    "expectedQuantity": 700,
+    "actualQuantity": 690,
+    "adjustmentReason": "expired",
+    "adjustmentAmount": -10
+  },
+  {
+    "Id": 5,
+    "date": "2024-02-28",
+    "lotId": 5,
+    "expectedQuantity": 130,
+    "actualQuantity": 132,
+    "adjustmentReason": "physical-count",
+    "adjustmentAmount": 2
+  }
+]

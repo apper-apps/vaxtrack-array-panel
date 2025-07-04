@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "name": "Pfizer-BioNTech COVID-19",
+    "family": "COVID-19",
+    "manufacturer": "Pfizer-BioNTech",
+    "dosesPerVial": 6,
+    "storageRequirements": "Ultra-cold (-80°C to -60°C)"
+  },
+  {
+    "Id": 2,
+    "name": "Moderna COVID-19",
+    "family": "COVID-19",
+    "manufacturer": "Moderna",
+    "dosesPerVial": 10,
+    "storageRequirements": "Frozen (-25°C to -15°C)"
+  },
+  {
+    "Id": 3,
+    "name": "Johnson & Johnson COVID-19",
+    "family": "COVID-19",
+    "manufacturer": "Johnson & Johnson",
+    "dosesPerVial": 5,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 4,
+    "name": "Influenza Quadrivalent",
+    "family": "Influenza",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 10,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 5,
+    "name": "MMR Vaccine",
+    "family": "MMR",
+    "manufacturer": "Merck",
+    "dosesPerVial": 10,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 6,
+    "name": "Hepatitis B Adult",
+    "family": "Hepatitis B",
+    "manufacturer": "GlaxoSmithKline",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 7,
+    "name": "Tdap Vaccine",
+    "family": "Tdap",
+    "manufacturer": "Boostrix",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 8,
+    "name": "Pneumococcal Conjugate",
+    "family": "Pneumococcal",
+    "manufacturer": "Pfizer",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  }
+]
