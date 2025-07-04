@@ -40,14 +40,32 @@ const Header = ({ onMenuClick }) => {
             )}
           </div>
           
-          <Button
-            variant="primary"
-            size="sm"
-            icon="RefreshCw"
-            onClick={() => window.location.reload()}
-          >
-            Refresh
-          </Button>
+<div className="flex items-center space-x-2">
+            <Button
+              variant="primary"
+              size="sm"
+              icon="RefreshCw"
+              onClick={() => window.location.reload()}
+            >
+              Refresh
+            </Button>
+            <Button
+              variant="secondary"
+              size="sm"
+              icon="LogOut"
+              onClick={async () => {
+                try {
+                  const { ApperUI } = window.ApperSDK
+                  await ApperUI.logout()
+                  window.location.href = '/login'
+                } catch (error) {
+                  console.error("Logout failed:", error)
+                }
+              }}
+            >
+              Logout
+            </Button>
+          </div>
         </div>
       </div>
     </header>
