@@ -1,65 +1,209 @@
 [
   {
     "Id": 1,
-    "name": "Pfizer-BioNTech COVID-19",
-    "family": "COVID-19",
-    "manufacturer": "Pfizer-BioNTech",
-    "dosesPerVial": 6,
-    "storageRequirements": "Ultra-cold (-80°C to -60°C)"
-  },
-  {
-    "Id": 2,
-    "name": "Moderna COVID-19",
-    "family": "COVID-19",
-    "manufacturer": "Moderna",
-    "dosesPerVial": 10,
-    "storageRequirements": "Frozen (-25°C to -15°C)"
-  },
-  {
-    "Id": 3,
-    "name": "Johnson & Johnson COVID-19",
-    "family": "COVID-19",
-    "manufacturer": "Johnson & Johnson",
-    "dosesPerVial": 5,
+    "name": "PSWH01 - Daptacel SDV",
+    "family": "DTaP",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
     "storageRequirements": "Refrigerated (2°C to 8°C)"
   },
   {
-    "Id": 4,
-    "name": "Influenza Quadrivalent",
-    "family": "Influenza",
+    "Id": 2,
+    "name": "PSWH02 - Quadracel PFS",
+    "family": "DTaP-IPV",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 3,
+    "name": "PSWH03 - IPOL MDV",
+    "family": "IPV",
     "manufacturer": "Sanofi Pasteur",
     "dosesPerVial": 10,
     "storageRequirements": "Refrigerated (2°C to 8°C)"
   },
   {
-    "Id": 5,
-    "name": "MMR Vaccine",
-    "family": "MMR",
-    "manufacturer": "Merck",
-    "dosesPerVial": 10,
-    "storageRequirements": "Frozen (-50°C to -15°C)"
-  },
-  {
-    "Id": 6,
-    "name": "Hepatitis B Adult",
-    "family": "Hepatitis B",
+    "Id": 4,
+    "name": "PSWH04 - Engerix-B PFS",
+    "family": "Hep B",
     "manufacturer": "GlaxoSmithKline",
     "dosesPerVial": 1,
     "storageRequirements": "Refrigerated (2°C to 8°C)"
   },
   {
+    "Id": 5,
+    "name": "PSWH05 - Engerix-B PFS",
+    "family": "Hep B",
+    "manufacturer": "GlaxoSmithKline",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 6,
+    "name": "PSWH06 - Beyfortus 100mg PFS",
+    "family": "RSV",
+    "manufacturer": "Sanofi/AstraZeneca",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
     "Id": 7,
-    "name": "Tdap Vaccine",
-    "family": "Tdap",
-    "manufacturer": "Boostrix",
+    "name": "PSWH07 - Beyfortus 50mg PFS",
+    "family": "RSV",
+    "manufacturer": "Sanofi/AstraZeneca",
     "dosesPerVial": 1,
     "storageRequirements": "Refrigerated (2°C to 8°C)"
   },
   {
     "Id": 8,
-    "name": "Pneumococcal Conjugate",
-    "family": "Pneumococcal",
-    "manufacturer": "Pfizer",
+    "name": "PSWH08 - MMR II SDV",
+    "family": "MMR",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 9,
+    "name": "PSWH09 - MMR II SDV",
+    "family": "MMR",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 10,
+    "name": "PSWH10 - ActHib SDV",
+    "family": "Hib",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 11,
+    "name": "PSWH11 - Adacel PFS",
+    "family": "Tdap",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 12,
+    "name": "PSWH12 - Varivax SDV",
+    "family": "Varicella",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 13,
+    "name": "PSWH13 - Varivax SDV",
+    "family": "Varicella",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 14,
+    "name": "PSWH14 - MenQuadFi SDV",
+    "family": "MCV4",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 15,
+    "name": "PSWH15 - Bexsero PFS",
+    "family": "MenB",
+    "manufacturer": "GlaxoSmithKline",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 16,
+    "name": "PSWH16 - Vaqta PFS",
+    "family": "Hep A",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 17,
+    "name": "PSWH17 - Vaqta PFS",
+    "family": "Hep A",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 18,
+    "name": "PSWH18 - Pentacel SDV",
+    "family": "DTaP-IPV-Hib",
+    "manufacturer": "Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 19,
+    "name": "PSWH19 - Gardasil PFS",
+    "family": "HPV",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 20,
+    "name": "PSWH20 - Proquad SDV",
+    "family": "MMRV",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 21,
+    "name": "PSWH21 - Proquad SDV",
+    "family": "MMRV",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Frozen (-50°C to -15°C)"
+  },
+  {
+    "Id": 22,
+    "name": "PSWH22 - Rotateq Oral Applicator",
+    "family": "RV (Rotavirus)",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 23,
+    "name": "PSWH23 - Rotateq Oral Applicator",
+    "family": "RV (Rotavirus)",
+    "manufacturer": "Merck",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 24,
+    "name": "PSWH24 - Vaxelis PFS",
+    "family": "DTaP-IPV-Hib-Hep B",
+    "manufacturer": "Merck/Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 25,
+    "name": "PSWH25 - Vaxelis PFS",
+    "family": "DTaP-IPV-Hib-Hep B",
+    "manufacturer": "Merck/Sanofi Pasteur",
+    "dosesPerVial": 1,
+    "storageRequirements": "Refrigerated (2°C to 8°C)"
+  },
+  {
+    "Id": 26,
+    "name": "PSWH26 - Vaxneuvance (PCV15) PFS",
+    "family": "PCV15",
+    "manufacturer": "Merck",
     "dosesPerVial": 1,
     "storageRequirements": "Refrigerated (2°C to 8°C)"
   }
